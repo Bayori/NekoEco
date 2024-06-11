@@ -1,0 +1,11 @@
+language: "ru" # en = en.yml; ru = ru.yml; custom = custom.yml
+items:
+  economy-items:
+    - DIAMOND_ORE
+    - DEEPSLATE_DIAMOND_ORE
+
+  withdraw-item: DEEPSLATE_DIAMOND_ORE
+
+notifications:
+  notify-on-withdraw: true
+  notify-on-deposit: true

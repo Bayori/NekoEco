@@ -1,0 +1,12 @@
+name: NekoEco
+version: '1.0'
+main: me.nekorise.nekoeco.NekoEco
+api-version: '1.20'
+prefix: NekoEco
+depend: [Vault]
+authors: [Nekorise]
+description: DESC
+commands:
+  deposit: {}
+  withdraw: {}
+  nekoeco: {}

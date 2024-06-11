@@ -1,0 +1,10 @@
+cfg-reload: "&#1fb9f2Config reloaded"
+deposit-usage: "&#1fb9f2Usage &#1ff2e9/deposit <hand/all>"
+deposit-notify: "&#1fb9f2You've replenished your balance by &#1ff2e9{total} &#1fb9f2DO's"
+deposit-null-hand: "&#1fb9f2Need to keep the DO's in your hand"
+deposit-null-inventory: "&#1fb9f2You don't have enough DO's in your inventory"
+withdraw-usage: "&#1fb9f2Usage &#1ff2e9/withdraw <Amount/all>"
+withdraw-low-balance: "&#1fb9f2You don't have enough funds in your balance to withdraw"
+withdraw-full-inventory: "&#1fb9f2There's not enough space in your inventory"
+withdraw-complete: "&#1fb9f2Successfully withdrew &#1ff2e9{total} &#1fb9f2DO's"
+# For example: DO's - is a Diamond Ore

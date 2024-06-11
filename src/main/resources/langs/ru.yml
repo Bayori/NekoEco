@@ -1,0 +1,10 @@
+cfg-reload: "&#1fb9f2Конфиг перезагружен"
+deposit-usage: "&#1fb9f2Используй &#1ff2e9/deposit <hand/all>"
+deposit-notify: "&#1fb9f2Ты пополнил баланс на &#1ff2e9{total} &#1fb9f2АРов"
+deposit-null-hand: "&#1fb9f2Нужно держать АРы в руке"
+deposit-null-inventory: "&#1fb9f2У тебя не хватает АРов в инвентаре"
+withdraw-usage: "&#1fb9f2Используй &#1ff2e9/withdraw <Кол-во/all>"
+withdraw-low-balance: "&#1fb9f2На твоём балансе недостаточно средств для вывода"
+withdraw-full-inventory: "&#1fb9f2В твоём инвентаре не хватает места"
+withdraw-complete: "&#1fb9f2Успешно выведено &#1ff2e9{total} &#1fb9f2АРов"
+# Для справки: АРы - это Алмазная Руда (Так принято на большинстве приватных серверов)

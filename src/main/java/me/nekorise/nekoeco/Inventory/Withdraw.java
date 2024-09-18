@@ -51,6 +51,7 @@ public class Withdraw
         if (totalSpace >= amount)
         {
             economy.withdrawPlayer(player, amount);
+            playerInventory.setMaxStackSize(64);
             playerInventory.addItem(itemToAdd);
             if (MainConfigStorage.isNotifyOnWithdraw)
             {

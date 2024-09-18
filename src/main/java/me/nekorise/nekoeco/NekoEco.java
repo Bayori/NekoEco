@@ -12,7 +12,6 @@ public final class NekoEco extends JavaPlugin
     @Override
     public void onEnable()
     {
-
         plugin = this;
         VEconomy.setupEconomy();
         registerCommands();
